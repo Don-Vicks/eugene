@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990031667367",
+    "project_id": "brandulox-90df6",
+    "storage_bucket": "brandulox-90df6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990031667367:android:cdc7c57ea5f49281d27b82",
+        "android_client_info": {
+          "package_name": "com.brandulox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990031667367-cb2dg59ish807umbo5seu35226qu4ne1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhHFl4SRGxZ8BzRjJMJQ4B7Ox-2dmRO3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990031667367-cb2dg59ish807umbo5seu35226qu4ne1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
