@@ -66,7 +66,7 @@
                 <!-- Accepts URIs that begin with https://YOUR_HOST -->
                 <data
                     android:scheme="https"
-                    android:host="newsfreak.mrb-lab.com" />
+                    android:host="brandulox.com" />
             </intent-filter>
 
         </activity>
@@ -80,7 +80,7 @@
         <!-- Admob Ads-->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-3940256099942544~3347511713"/>
+            android:value="ca-app-pub-1141796700115763~6211896657"/>
 
         <!-- fb login config -->
         <meta-data

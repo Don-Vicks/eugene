@@ -1,6 +1,6 @@
 class WpConfig {
   // YOUR WEBISTE URL
-  static const String baseURL = "https://firstpageblog.com";
+  static const String baseURL = "https://brandulox.com";
 
   // FEATURE IMGAE -  IF YOUR POSTS DON"T HAVE A FEATURE IMAGE
   static const String defaultFeatureImage =

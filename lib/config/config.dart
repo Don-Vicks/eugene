@@ -1,26 +1,20 @@
 import 'package:flutter/material.dart';
 
 class Config {
-
-  
   // App Name
   static const appName = 'Brandulox';
 
   //iOS App ID (Ignore this for Android)
   static const iOSAppID = '000000';
 
-
   // App theme color
-  static const  Color appThemeColor = Color(0xFFf8bd7f);
+  static const Color appThemeColor = Color(0xff611F77);
 
-  
   // App Icons
   static const String appIcon = 'assets/images/icon.png';
   static const String logo = 'assets/images/logo.png';
   static const String logoDark = 'assets/images/logo_dark.png';
   static const String splash = 'assets/images/splash.png';
-
-
 
   // Image Assets
   static const String commentImage = "assets/images/comment.svg";
@@ -29,12 +23,9 @@ class Config {
   static const String noContentImage = "assets/images/no_content.svg";
   static const String noInternetImage = "assets/images/no_internet.svg";
 
-  
-  
   // Animation files
   static const String doneAnimation = 'assets/animation_files/done.flr';
   static const String searchAnimation = 'assets/animation_files/search.flr';
-
 
   //Intro Images
   static const String introImage1 = 'assets/images/intro_1.svg';
